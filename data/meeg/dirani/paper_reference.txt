@@ -1,0 +1,14 @@
+dataset described in:
+
+Dirani, J., & Pylkkänen, L. (2023). The time course of cross-modal representations of conceptual categories. Neuroimage, 277, 120254.
+
+@article{dirani2023time,
+  title={The time course of cross-modal representations of conceptual categories},
+  author={Dirani, Julien and Pylkk{\"a}nen, Liina},
+  journal={Neuroimage},
+  volume={277},
+  pages={120254},
+  year={2023},
+  publisher={Elsevier}
+}
+

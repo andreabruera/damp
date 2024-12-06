@@ -1,0 +1,15 @@
+dataset described in:
+
+Kaiser, D., Jacobs, A. M., & Cichy, R. M. (2022). Modelling brain representations of abstract concepts. PLoS Computational Biology, 18(2), e1009837.
+
+@article{kaiser2022modelling,
+  title={Modelling brain representations of abstract concepts},
+  author={Kaiser, Daniel and Jacobs, Arthur M and Cichy, Radoslaw M},
+  journal={PLoS Computational Biology},
+  volume={18},
+  number={2},
+  pages={e1009837},
+  year={2022},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+

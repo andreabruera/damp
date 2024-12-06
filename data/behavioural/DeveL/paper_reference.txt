@@ -1,0 +1,14 @@
+dataset described in:
+
+Schröter, P., & Schroeder, S. (2017). The Developmental Lexicon Project: A behavioral database to investigate visual word recognition across the lifespan. Behavior Research Methods, 49, 2183-2203.
+
+@article{schroter2017developmental,
+  title={The Developmental Lexicon Project: A behavioral database to investigate visual word recognition across the lifespan},
+  author={Schr{\"o}ter, Pauline and Schroeder, Sascha},
+  journal={Behavior Research Methods},
+  volume={49},
+  pages={2183--2203},
+  year={2017},
+  publisher={Springer}
+}
+

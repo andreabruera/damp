@@ -1,3 +1,7 @@
+test_results/
+test_lineplots/
+collect_word_sentences/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

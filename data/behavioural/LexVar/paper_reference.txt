@@ -1,0 +1,13 @@
+dataset described in:
+
+Barca, L., Burani, C., & Arduino, L. S. (2002). Word naming times and psycholinguistic norms for Italian nouns. Behavior research methods, instruments, & computers, 34, 424-434.
+
+@article{barca2002word,
+  title={Word naming times and psycholinguistic norms for Italian nouns},
+  author={Barca, Laura and Burani, Cristina and Arduino, Lisa S},
+  journal={Behavior research methods, instruments, \& computers},
+  volume={34},
+  pages={424--434},
+  year={2002},
+  publisher={Springer}
+}
